@@ -10,5 +10,5 @@ A color picker app built in React with a dynamic color selection feature, state 
 - State lifting via props
 
 ## How to Run
- npm install
+- npm install
 - npm start
